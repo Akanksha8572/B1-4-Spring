@@ -5,6 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Mobile {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		ApplicationContext a=new ClassPathXmlApplicationContext("beans.xml");
 		System.out.println("The File is executing...!");

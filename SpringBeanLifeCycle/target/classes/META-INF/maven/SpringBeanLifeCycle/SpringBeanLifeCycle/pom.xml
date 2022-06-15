@@ -4,7 +4,7 @@
   <artifactId>SpringBeanLifeCycle</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SpringBeanLifeCycle</name>
-    <dependencies>
+  <dependencies>
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 	<dependency>
     <groupId>org.springframework</groupId>
